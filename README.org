@@ -1,0 +1,15 @@
+* ring-graphql-multipart
+
+  [[https://clojars.org/ring-graphql-multipart][https://img.shields.io/clojars/v/ring-graphql-multipart.svg]]
+  [[https://travis-ci.org/r0man/ring-graphql-multipart][https://travis-ci.org/r0man/ring-graphql-multipart.svg]]
+  [[https://versions.deps.co/r0man/ring-graphql-multipart][https://versions.deps.co/r0man/ring-graphql-multipart/status.svg]]
+  [[https://versions.deps.co/r0man/ring-graphql-multipart][https://versions.deps.co/r0man/ring-graphql-multipart/downloads.svg]]
+
+  Ring middleware that implements the [[https://github.com/jaydenseric/graphql-multipart-request-spec][GraphQL multipart request specification]] aka file uploads 🚀.
+
+** License
+
+   Copyright © 2019 [[https://github.com/r0man][r0man]]
+
+   Distributed under the Eclipse Public License either version 1.0 or
+   (at your option) any later version.
